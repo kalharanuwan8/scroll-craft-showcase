@@ -1,4 +1,4 @@
-import profileImage from '@/assets/profile-image.jpg';
+import profileImage from '@/assets/me.jpg';
 
 const Hero = () => {
   return (
@@ -10,7 +10,7 @@ const Hero = () => {
             <img
               src={profileImage}
               alt="Profile"
-              className="w-32 h-32 md:w-40 md:h-40 rounded-full mx-auto shadow-glow animate-float object-cover"
+              className="w-100 h-100 md:w-80 md:h-80 rounded-full mx-auto shadow-glow animate-float object-cover"
             />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold mb-6">

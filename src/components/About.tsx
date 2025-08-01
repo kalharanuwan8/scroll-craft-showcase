@@ -11,19 +11,14 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I'm a dedicated software developer with a passion for creating innovative digital solutions. 
-                My journey in technology began during my university years, where I discovered the power of 
-                code to solve real-world problems.
+                I'm a passionate and driven Software Engineering undergraduate with hands-on experience in building scalable and impactful digital solutions. My journey in software development began during university, where I quickly realized how powerful technology can be in addressing real-world challenges.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I specialize in full-stack development, with expertise in modern frameworks like React, 
-                Node.js, and cloud technologies. I believe in writing clean, maintainable code and 
-                creating user experiences that make a difference.
+                Over the past few years, I’ve worked on diverse projects that span across front-end and back-end development, sharpening my skills in frameworks like React, Node.js, and modern cloud platforms. I’m particularly drawn to creating seamless, user-centric applications backed by clean, efficient, and maintainable code.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing to 
-                open-source projects, or sharing knowledge with the developer community.
-              </p>
+                Beyond the classroom, I actively seek out new opportunities to grow—whether it’s through internships, personal projects, or contributions to open-source software. I'm deeply enthusiastic about staying at the forefront of technology and continuously learning from the vibrant developer community around me.
+                 </p>
               <div className="flex flex-wrap gap-3 mt-8">
                 {['React', 'TypeScript', 'Node.js', 'Python', 'AWS', 'Docker'].map((skill) => (
                   <span

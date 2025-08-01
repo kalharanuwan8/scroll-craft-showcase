@@ -12,7 +12,7 @@ const Footer = () => {
           </p>
           <div className="flex justify-center space-x-6 mb-8">
             <a
-              href="mailto:contact@example.com"
+              href="kalharanuwan8@gmail.com"
               className="text-primary hover:text-primary-glow transition-smooth"
               aria-label="Email"
             >
@@ -21,8 +21,8 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="https://github.com"
-              target="_blank"
+              href="https://github.com/kalharanuwan8"
+              target="https://github.com/kalharanuwan8"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary-glow transition-smooth"
               aria-label="GitHub"
@@ -32,8 +32,8 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="https://linkedin.com"
-              target="_blank"
+              href="www.linkedin.com/in/nuwanandun-kalhara-71858a2a6"
+              target="www.linkedin.com/in/nuwanandun-kalhara-71858a2a6"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary-glow transition-smooth"
               aria-label="LinkedIn"
